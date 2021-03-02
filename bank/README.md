@@ -46,6 +46,7 @@ Contents:
 | Numbers are Less than Sum of Their Divisors | 5 | 1 | [:link:](./algorithm/numbers-lt-sum-their-divisors/p3.md) |
 | Zero Maker Calculator | 5 | 1 | [:link:](./algorithm/zero-maker-calculator/p4.md) |
 | Numbers are Equal with Sum of Power 5 of Their digits | 6 | 1 | [:link:](./algorithm/numbers-eq-sum-of-power-5-of-digits/p5.md) |
+| Greatest Pandigital Prime Number | 6 | 1 | [:link:](./algorithm/greatest-pandigital-prime-number/p6.md) |
 
 ## Calculation and IO
 | Description | Difficulty | Occurrences | Link |
