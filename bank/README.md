@@ -7,9 +7,9 @@ Contents:
 
  - [Introduction](#introduction)
  - [Algorithm](#algorithm)
- - [Calculation & IO](#calculation-&-io)
+ - [Calculation and IO](#calculation-and-io)
  - [Decision making](#decision-making)
- - [Loop & Array](#loop&-array)
+ - [Loop and Array](#loop-and-array)
  - [Function](#function)
  - [Pointer](#pointer)
  - [Struct](#struct)
@@ -32,7 +32,7 @@ Contents:
 |             |            |             |      |
 
 
-## Calculation & IO
+## Calculation and IO
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
 |             |            |             |      |
@@ -48,7 +48,7 @@ Contents:
 |             |            |             |      |
 
 
-## Loop & Array
+## Loop and Array
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
 |             |            |             |      |
