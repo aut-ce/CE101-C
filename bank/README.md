@@ -45,6 +45,7 @@ Contents:
 | Maximum Possible Number on Panels | 6 | 1 | [:link:](./algorithm/max-possible-number-on-panels/p2.md) |
 | Numbers are Less than Sum of Their Divisors | 5 | 1 | [:link:](./algorithm/numbers-lt-sum-their-divisors/p3.md) |
 | Zero Maker Calculator | 5 | 1 | [:link:](./algorithm/zero-maker-calculator/p4.md) |
+| Numbers are Equal with Sum of Power 5 of Their digits | 6 | 1 | [:link:](./algorithm/numbers-eq-sum-of-power-5-of-digits/p5.md) |
 
 ## Calculation and IO
 | Description | Difficulty | Occurrences | Link |
