@@ -21,7 +21,7 @@ Contents:
 |-------------|------------|-------------|------|
 | Greatest Common Divisor | 4 | 2 | [:link:](./algorithm/greatest-common-divisor/p1.md) |
 | Prime Number Check | 3 | 1 | [:link:](./algorithm/prime-number-check/p2.md) |
-|             |            |             |      |
+| Double Zeros | 5 | 2 | [:link:](./algorithm/double-zeros/p2.md) |
 |             |            |             |      |
 
 
