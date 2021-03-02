@@ -39,7 +39,8 @@ Contents:
 | Least Common Multiple of Series of n | 4 | 1 | [:link:](./algorithm/least-common-multiple-of-series/p4.md) |
 | Palindrome Multiple of 2-digit Numbers | 4 | 1 | [:link:](./algorithm/palindrome-multiple-of-two-digit-numbers/p5.md) |
 | Sum & Squared Sum of Series of n | 4 | 1 | [:link:](./algorithm/sum-&-squared-sum-of-series/p6.md) |
-| Sieve of Eratosthenes| 5 | 1 | [:link:](./algorithm/sieve-of-eratosthenes/p7.md) |
+| Sieve of Eratosthenes | 5 | 1 | [:link:](./algorithm/sieve-of-eratosthenes/p7.md) |
+| Path Number from top-left to bottom-right | 7 | 1 | [:link:](./algorithm/find-all-path-number/p8.md) |
 
 ## Calculation and IO
 | Description | Difficulty | Occurrences | Link |
