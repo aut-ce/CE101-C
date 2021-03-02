@@ -38,6 +38,7 @@ Contents:
 | Reverse digits | 4 | 1 | [:link:](./algorithm/reverse-digits/p3.md) |
 | Least Common Multiple of Series of n | 4 | 1 | [:link:](./algorithm/least-common-multiple-of-series/p4.md) |
 | Palindrome Multiple of 2-digit Numbers | 4 | 1 | [:link:](./algorithm/palindrome-multiple-of-two-digit-numbers/p5.md) |
+| Sum & Squared Sum of Series of n | 4 | 1 | [:link:](./algorithm/sum-&-squared-sum-of-series/p6.md) |
 
 ## Calculation and IO
 | Description | Difficulty | Occurrences | Link |
