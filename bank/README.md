@@ -31,6 +31,7 @@ Contents:
 | Prime Number Check | 3 | 1 | [:link:](./algorithm/prime-number-check/p2.md) |
 | Double Zeros | 5 | 2 | [:link:](./algorithm/double-zeros/p2.md) |
 | Number System Conversion | 4 | 1 | [:link:](./algorithm/number-system-conversion/p7.md) |
+| Random Generator in Specified Range | 5 | 1 | [:link:](./algorithm/range-random-generator/p4.md) |
 
 
 ## Calculation and IO
