@@ -36,6 +36,7 @@ Contents:
 | Find Poisonous Mug | 8 | 3 | [:link:](./algorithm/find-poisonous-mug/p9.md) |
 | Cash Greedy | 5 | 1 | [:link:](./algorithm/cash-greedy/p6.md) |
 | Reverse digits | 4 | 1 | [:link:](./algorithm/reverse-digits/p3.md) |
+| Least Common Multiple of Series of n | 4 | 1 | [:link:](./algorithm/least-common-multiple-of-series/p4.md) |
 
 
 ## Calculation and IO
