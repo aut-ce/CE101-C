@@ -33,6 +33,7 @@ Contents:
 | Number System Conversion | 4 | 1 | [:link:](./algorithm/number-system-conversion/p7.md) |
 | Random Generator in Specified Range | 5 | 1 | [:link:](./algorithm/range-random-generator/p4.md) |
 | Sum Multi-digit Numbers by Single Digits | 4 | 1 | [:link:](./algorithm/multi-digit-sum-by-single-digit-sum/p5.md) |
+| Find Poisonous Mug | 8 | 3 | [:link:](./algorithm/find-poisonous-mug/p9.md) |
 
 
 ## Calculation and IO
