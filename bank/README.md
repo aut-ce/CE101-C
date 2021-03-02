@@ -37,7 +37,7 @@ Contents:
 | Cash Greedy | 5 | 1 | [:link:](./algorithm/cash-greedy/p6.md) |
 | Reverse digits | 4 | 1 | [:link:](./algorithm/reverse-digits/p3.md) |
 | Least Common Multiple of Series of n | 4 | 1 | [:link:](./algorithm/least-common-multiple-of-series/p4.md) |
-
+| Palindrome Multiple of 2-digit Numbers | 4 | 1 | [:link:](./algorithm/palindrome-multiple-of-two-digit-numbers/p5.md) |
 
 ## Calculation and IO
 | Description | Difficulty | Occurrences | Link |
