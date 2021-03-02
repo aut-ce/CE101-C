@@ -51,6 +51,7 @@ Contents:
 | Prime Numbers in Series of n | 4 | 1 | [:link:](./algorithm/prime-numbers-in-series-of-n/p4.md) |
 | Voting System | 5 | 1 | [:link:](./algorithm/voting-system/p5.md) |
 | Irregular Triangular Triplets | 6 | 1 | [:link:](./algorithm/irregular-triangular-triplet/p7.md) |
+| Prime Numbers with Just Digit '1' in Binary | 5 | 1 | [:link:](./algorithm/prime-numbers-with-just-1-in-binary/p8.md) |
 
 ## Calculation and IO
 | Description | Difficulty | Occurrences | Link |
