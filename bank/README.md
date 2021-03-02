@@ -49,6 +49,8 @@ Contents:
 | Greatest Pandigital Prime Number | 6 | 1 | [:link:](./algorithm/greatest-pandigital-prime-number/p6.md) |
 | Least Multiple of n with Reminder in Specified Range | 4 | 1 | [:link:](./algorithm/least-multiple-with-reminder-in-specified-range/p3.md) |
 | Prime Numbers in Series of n | 4 | 1 | [:link:](./algorithm/prime-numbers-in-series-of-n/p4.md) |
+| Voting System | 5 | 1 | [:link:](./algorithm/voting-system/p5.md) |
+| Irregular Triangular Triplets | 6 | 1 | [:link:](./algorithm/irregular-triangular-triplet/p7.md) |
 
 ## Calculation and IO
 | Description | Difficulty | Occurrences | Link |
