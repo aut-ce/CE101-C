@@ -43,6 +43,7 @@ Contents:
 | Path Number from top-left to bottom-right | 7 | 1 | [:link:](./algorithm/find-all-path-number/p8.md) |
 | Numbers Divisible By All Their Digits | 6 | 1 | [:link:](./algorithm/numbers-divisible-by-all-their-digits/p1.md) |
 | Maximum Possible Number on Panels | 6 | 1 | [:link:](./algorithm/max-possible-number-on-panels/p2.md) |
+| Numbers are Less than Sum of Their Divisors | 5 | 1 | [:link:](./algorithm/numbers-lt-sum-their-divisors/p3.md) |
 
 ## Calculation and IO
 | Description | Difficulty | Occurrences | Link |
