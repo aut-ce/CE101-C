@@ -19,7 +19,7 @@ Contents:
 
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
-|             |            |             |      |
+| Greatest Common Divisor | 4 | 2 | [:link:](./algorithm/greatest-common-divisor/p1.md) |
 |             |            |             |      |
 |             |            |             |      |
 
