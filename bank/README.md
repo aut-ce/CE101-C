@@ -103,7 +103,6 @@ Contents:
 ## File
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
-|             |            |             |      |
-|             |            |             |      |
-|             |            |             |      |
-
+| Copy file content into another file | 3 | `Fall2017-hw7` | [:link:](./file/copy-file-content-into-another-file/5.md) |
+| Read binary file and place min and max time into the beginning and end of file| 3 | `Fall2017-hw7` | [:link:](./file/read-time-struct-and-find-min-and-max-time/6.md) |
+| Find average, min and max time| 3 | `Fall2018-hw7` | [:link:](./file/find-average-min-and-max-time-from-file/p5.md) |
