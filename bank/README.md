@@ -60,7 +60,7 @@ Contents:
 | Time Conflict | 6 | `Fall2016-hw2` , `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/time-conflict/p5.md) |
 |  Print Random Even Numbers | 4 |             |      |
 | Perimeter, Area, Angles Of Diamond | 4 |           |           |
-| Calculate Geometric Features Of Square | 5 | `Fall2017` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-geometric-features-of-square/p4.md)
+| Calculate Geometric Features Of Square | 5 | `Fall2017-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-geometric-features-of-square/p4.md)
 
 
 ## Decision making
