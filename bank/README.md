@@ -56,7 +56,7 @@ Contents:
 ## Calculation and IO
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
-|             |            |             |      |
+| Weighted Average Scores | 2 | `Fall2015-hw3` , `Fall2016-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/weighted-average-scores/p3.md) |
 |             |            |             |      |
 |             |            |             |      |
 
