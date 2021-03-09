@@ -1,10 +1,10 @@
 /*
  * +===============================================
- * | Author:        Parham Alvani (parham.alvani@gmail.com)
+ * | Author:        Parham Alvani <parham.alvani@gmail.com>
  * |
- * | Creation Date: 27-10-2016
+ * | Creation Date: 04-11-2019
  * |
- * | File Name:     p6.go
+ * | File Name:     p4.go
  * +===============================================
  */
 
@@ -13,17 +13,20 @@ package main
 import (
 	"fmt"
 	"math/rand"
-	"time"
 )
 
 func main() {
-	s := rand.NewSource(time.Now().UnixNano())
-	r := rand.New(s)
+	var n int
 
-	var n, m int
-	fmt.Scanf("%d %d", &m, &n)
+	if _, err := fmt.Scanf("%d", &n); err != nil {
+		return
+	}
 
+	n = n / 2
+
+	// this loop generates four even random number in range [m, n]
 	for i := 0; i < 4; i++ {
-		fmt.Println(r.Intn(n-m) + m)
+		r := rand.Intn(n + 1) // an integer between 0 to n/2
+		fmt.Println(2 * r)    // [0, n/2] and 2 * r is always even
 	}
 }
