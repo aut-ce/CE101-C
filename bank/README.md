@@ -73,6 +73,7 @@ Contents:
 | Make Fruit Compote | 5 | `Spring2020-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/make-fruit-compote/p3.md)
 | Location , Movements Number Of Rabbits | 5 | `Spring2020-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/location-movement-number-of-rabbit/p4.md)
 | Exchange Variables | 4 | `Spring2020-hw2` | [:link:](https://github.com/aut-ce/CE101/tree/calculation-IO/bank/calculation%20and%20IO/exchange-variables)
+| Calculate Number Of Excel Columns | 8 | `Spring2020-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-number-of-excel-columns/p7.md)
 
 
 ## Decision making
