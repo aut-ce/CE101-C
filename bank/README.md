@@ -69,6 +69,7 @@ Contents:
 | Postage Cost | 5 | `Fall2018-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/postage-cost/p4.md)
 | Perimeter , Area Of Trapezium | 5 | `Fall2018-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/perimeter-area-of-trapezium/p5.md)
 | Create Triangle With Random Vertices | 5 | `Fall2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/create-triangle-with-random-vertices/p5.md)
+| Calculate BMI | 3 | `Spring2020-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-BMI/p1.md)
 
 
 ## Decision making
