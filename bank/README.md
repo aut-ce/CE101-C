@@ -75,6 +75,7 @@ Contents:
 | Exchange Variables | 4 | `Spring2020-hw2` | [:link:](https://github.com/aut-ce/CE101/tree/calculation-IO/bank/calculation%20and%20IO/exchange-variables)
 | Calculate Number Of Excel Columns | 8 | `Spring2020-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-number-of-excel-columns/p7.md)
 | Estimate Match Result | 6 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/estimate-match-result/p2.md)
+| Last Point Coordinates Of Rectangle | 4 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/last-point-coordinates-of-rectangle/p5.md)
 
 
 ## Decision making
