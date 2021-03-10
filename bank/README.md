@@ -61,6 +61,8 @@ Contents:
 |  Print Random Even Numbers | 4 |             |      |
 | Perimeter, Area, Angles Of Diamond | 4 |           |           |
 | Calculate Geometric Features Of Square | 5 | `Fall2017-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-geometric-features-of-square/p4.md)
+| Calculate Mathematic Formula | 3|      |          |
+| Passenger Waiting For Next Train Arrival | 6 | `Spring2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/passenger-waiting-for-next-train-arrival/p4.md)
 
 
 ## Decision making
