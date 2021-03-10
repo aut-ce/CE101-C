@@ -58,7 +58,7 @@ Contents:
 |-------------|------------|-------------|------|
 | Weighted Average Scores | 2 | `Fall2015-hw3` , `Fall2016-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/weighted-average-scores/p3.md) |
 | Time Conflict | 6 | `Fall2016-hw2` , `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/time-conflict/p5.md) |
-|  Print Random Even Numbers | 4 |             |      |
+|  Print Random Even Numbers | 4 | `Fall2016-hw2` , `Fall2017-hw2` , `Fall2018-hw2` , `Fall2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/print-random-even-numbers/p6.md)
 | Perimeter, Area, Angles Of Diamond | 4 | `Fall2016-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/perimeter-area-angles-of-diamond/p4.md)           |
 | Calculate Geometric Features Of Square | 5 | `Fall2017-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-geometric-features-of-square/p4.md)
 | Calculate Mathematic Formula | 3|      |          |
