@@ -67,7 +67,7 @@ Contents:
 | Create Numbers By Operators | 4 | `Fall2017-hw2` , `Spring2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/create-numbers-by-operators/p5.md)|
 | Game Table | 1 | `Spring2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/game-table/p7.md)
 | Postage Cost | 5 | `Fall2018-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/postage-cost/p4.md)
-| Perimeter , Area Of Trapezium | 5 | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/perimeter-area-of-trapezium/p5.md)
+| Perimeter , Area Of Trapezium | 5 | `Fall2018-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/perimeter-area-of-trapezium/p5.md)
 
 
 ## Decision making
