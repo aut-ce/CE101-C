@@ -61,7 +61,7 @@ Contents:
 |  Print Random Even Numbers | 4 | `Fall2016-hw2` , `Fall2017-hw2` , `Fall2018-hw2` , `Fall2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/print-random-even-numbers/p6.md)
 | Perimeter, Area, Angles Of Diamond | 4 | `Fall2016-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/perimeter-area-angles-of-diamond/p4.md)           |
 | Calculate Geometric Features Of Square | 5 | `Fall2017-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-geometric-features-of-square/p4.md)
-| Calculate Mathematic Formula | 3|      |          |
+| Calculate Mathematic Formula | 3| `Spring2019-hw2` , `Fall2019-hw2` , `Spring2020-hw2` , `Fall2018-hw2` , `Fall2016-hw2` , `Fall2017-hw2` , `Fall2017-hw4` , `Fall2020-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-mathematic-formula/p3.md) |
 | Passenger Waiting For Next Train Arrival | 6 | `Spring2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/passenger-waiting-for-next-train-arrival/p4.md)
 | Parallelogram Area | 4 | `Spring2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/parallelogram-area/p5.md)
 | Creating Numbers By Operators | 4 |                 |                     |                         |
