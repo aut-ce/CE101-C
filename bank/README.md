@@ -83,7 +83,7 @@ Contents:
 | Shortest Sum Of Distances Between Friends | 4 | `Spring2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/shortest-sum-of-distances-between-freinds/p3.md)
 | Third Side Length Of Triangle | 5 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/third-side-length-of-triangle/p3.md)
 | Calculate Salary | 3 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-salary/p4.md)
-| Minimum Squares number | 3 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/tree/calculation-IO/bank/calculation%20and%20IO/minimum-squares-number)
+| Minimum Squares number | 3 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/minimum-squares-number/p7.md)
 ## Decision making
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
