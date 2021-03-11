@@ -77,8 +77,13 @@ Contents:
 | Estimate Match Result | 6 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/estimate-match-result/p2.md)
 | Last Point Coordinates Of Rectangle | 4 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/last-point-coordinates-of-rectangle/p5.md)
 | Colorful Rings | 7 | `Fall2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/colorful-rings/p6.md)
-
-
+| Number Of Lighted LEDs | 7 | `Fall2019-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/number-of-lighted-LEDs/p6.md)
+| Pishmargs Num | 8 | `Fall2019-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/pishmargs-num/p7.md)
+| Shortest Path | 7 | `Spring2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/shortest-path/p1.md)
+| Shortest Sum Of Distances Between Friends | 4 | `Spring2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/shortest-sum-of-distances-between-freinds/p3.md)
+| Third Side Length Of Triangle | 5 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/third-side-length-of-triangle/p3.md)
+| Calculate Salary | 3 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-salary/p4.md)
+| Minimum Squares number | 3 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/tree/calculation-IO/bank/calculation%20and%20IO/minimum-squares-number)
 ## Decision making
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
