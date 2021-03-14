@@ -57,11 +57,11 @@ Contents:
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
 | Weighted Average Scores | 2 | `Fall2015-hw3` , `Fall2016-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/weighted-average-scores/p3.md) |
-| Time Conflict | 6 | `Fall2016-hw2` , `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/time-conflict/p5.md) |
-| Time Conflict 2 | 6 | `Fall2016-hw2` , `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/time-conflict-2/p8.md) |
-|  Print Random Even Numbers | 4 | `Fall2016-hw2` , `Fall2017-hw2` , `Fall2018-hw2` , `Fall2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/print-random-even-numbers/p6.md)
-|  Print Random Even Numbers 2 | 4 | `Fall2016-hw2` , `Fall2017-hw2` , `Fall2018-hw2` , `Fall2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/print-random-even-numbers-2/p6.md)
-|  Print Random Even Numbers 3 | 4 | `Fall2016-hw2` , `Fall2017-hw2` , `Fall2018-hw2` , `Fall2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/print-random-even-numbers-3/p6.md)
+| Time Conflict | 6 | `Fall2016-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/time-conflict/p5.md) |
+| Time Conflict 2 | 6 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/time-conflict-2/p8.md) |
+|  Print Random Even Numbers | 4 | `Fall2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/print-random-even-numbers/p6.md)
+|  Print Random Even Numbers 2 | 4 | `Fall2016-hw2`| [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/print-random-even-numbers-2/p6.md)
+|  Print Random Even Numbers 3 | 4 | `Fall2017-hw2` , `Fall2018-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/print-random-even-numbers-3/p6.md)
 | Perimeter, Area, Angles Of Diamond | 4 | `Fall2016-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/perimeter-area-angles-of-diamond/p4.md)           |
 | Calculate Geometric Features Of Square | 5 | `Fall2017-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-geometric-features-of-square/p4.md)
 | Calculate Mathematic Formula | 3| `Spring2019-hw2` , `Fall2019-hw2` , `Spring2020-hw2` , `Fall2018-hw2` , `Fall2016-hw2` , `Fall2017-hw2` , `Fall2017-hw4` , `Fall2020-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-mathematic-formula/p3.md) |
