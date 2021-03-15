@@ -92,7 +92,19 @@ Contents:
 | Shortest Sum Of Distances Between Friends | 4 | `Spring2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/shortest-sum-of-distances-between-freinds/p3.md)
 | Third Side Length Of Triangle | 5 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/third-side-length-of-triangle/p3.md)
 | Calculate Salary | 3 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-salary/p4.md)
-| Minimum Squares number | 3 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/minimum-squares-number/p7.md)
+| Minimum Squares Number | 3 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/minimum-squares-number/p7.md)
+| Calculation Output | 4 | `Fall2016-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-outout/p1.md)
+| Calculation Output 2 | 4 | `Fall2017-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-output-2/P1.md)
+| Calculation Output 3 | 4 | `Fall2018-hw2` , `Fall2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-output-3/p1.md)
+| Calculation Output 4 | 4 | `Fall2018-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-output-4/p1.md)
+| Calculation Output 5 | 4 | `Spring2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-output-5/p1.md)
+| Calculation Output And Cast Question | 4 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-output-and-cast-question/p1.md)
+| Cast Question | 4 | `Fall2016-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/cast-question/p2.md)
+| Cast Question 2 | 4 | `Fall2018-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/cast-question-2/p2.md)
+| Cast Question 3 | 4 | `Spring2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/cast-question-3/p2.md)
+| Cast Question 4 | 4 | `Fall2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/cast-question-4/p2.md)
+| Find Compiling Errors | 4 | `Spring2020-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/find-compiling-errors/p8.md)
+| Find Compiling Errors 2 | 4 | `Fall2020-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/find-compiling-erroers-2/p2.md)
 ## Decision making
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
