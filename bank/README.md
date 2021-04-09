@@ -65,6 +65,23 @@ Contents:
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
 | Sort 6 numbers in descending order | 5 | `Fall2015-hw3` | [:link:](./decison_making/sort_6_numbers_in_descending_order/p5.md) |
+| Number of runs in serries | 7 | `Fall2015-hw4` | [:link:](./decison_making/number_of_runs_in_serries/p5.md) |
+| Shape recognition | 5 | `Fall2017-hw3`, `Fall2016-hw3`, `Fall2015-hw3` |  [:link:](./decison_making/shape_recognition/P3.md) |
+| rewrite the code with switch case | 3 | `Fall2015-hw3` | [:link:](.decison_making/rewrite_with_switch_cases/HW-3.pdf) |
+| sort the input numbers in descending order with minimum comparisons | 7 | `Fall2018-hw3`, `ُSpring2019-hw3`, `Fall2016-hw5`, `Fall2015-hw3` | [:link:](./bank/decison_making/sort_in_descending_order_least_comparisons/p3.md) |
+| Min and Max of the king's age | 4 | `Fall2016-hw3` | [:link:](./decison_making/max_and_min_of_kings_age/p2.md) |
+| Pallindrome number | 3 | `Fall2017-hw3`, `Fall2016-hw3` | [:link:](./decison_making/palindrome_number_detection/P4.md)
+| Guessing the number game - part1 | 6 | `Fall2017-hw5` | [:link:](./decison_making/guessing_the_numbers_game_part1/) |
+| Guessing the number game - part2 | 6 | `Fall2017-hw5` | [:link:](./decison_making/guessing_the_numbers_game_part1/) |
+| Generate all the numbers congruence modulo given n | 5 | `Fall2017-hw4` | [:link:](./decison_making/generate_all_numbers_Congruence_modulo_to_given_n/P1.md) |
+| Common area of 2 rectangles | 7 | `Fall2019-hw3`, `Fall2017-hw3`, `Fall2020-hw3`| [:link:](./decison_making/common_area_of_two_rectangles/P5.md) |
+| Use the minimum amount of switch cases | 4 | `Fall2019-hw3`, `Spring2019-hw3`, `Fall2018-hw3`, | [:link:](.//decison_making/using_minimum_switch_cases/p1.md) |
+| Use the least number of if-else | 4 | `Fall2017-hw3` | [:link:](./decison_making/minimum_number_of_if_else/P2.md) |
+| Intersection of 3 intervals | 6 | `Spring2019-hw3`, `Fall2018-hw3` | [:link:](./decison_making/intersection_of_three_intervals/p5.md) |
+| Check the triangle type | 5 | `Fall2018-hw3` | [:link:](./decison_making/triangle_detection/p4.md) |
+| Calculate the least number of bills | 5 | `Fall2018-hw5` | [:link:](./decison_making/minimum_number_of_bills/p6.md) |
+| Check if input is in the given interval | 7 | `Fall2018-hw4` | [:link:](.//decison_making/check_if_input_is_in_given_set/p1.md) |
+
 
 
 ## Loop and Array
