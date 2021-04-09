@@ -86,6 +86,7 @@ Contents:
 | Intersection on n intervals | 6 | `Fall2019-hw5` | [:link:](./decison_making/intersection_of_n_intervals/p8.md) |
 | Put same amount of waters in jars | 5 | `Spring2020-hw3` | [:link:](./decison_making/intersection_of_n_intervals/p8.md) |
 | Check if input is a leap year | 4 | `Spring2020-hw3` | [:link:](./decison_making/check_if_input_is_leapyear/p5.md) |
+| Find the value of Z | 5 | `Spring2019-hw3` | [:link:](./decison_making/find_the_value_of_Z/p1.md) |
 
 
 
