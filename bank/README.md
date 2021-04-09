@@ -75,12 +75,17 @@ Contents:
 | Guessing the number game - part2 | 6 | `Fall2017-hw5` | [:link:](./decison_making/guessing_the_numbers_game_part1/) |
 | Generate all the numbers congruence modulo given n | 5 | `Fall2017-hw4` | [:link:](./decison_making/generate_all_numbers_Congruence_modulo_to_given_n/P1.md) |
 | Common area of 2 rectangles | 7 | `Fall2019-hw3`, `Fall2017-hw3`, `Fall2020-hw3`| [:link:](./decison_making/common_area_of_two_rectangles/P5.md) |
-| Use the minimum amount of switch cases | 4 | `Fall2019-hw3`, `Spring2019-hw3`, `Fall2018-hw3`, | [:link:](.//decison_making/using_minimum_switch_cases/p1.md) |
+| Use the minimum amount of switch cases | 4 | `Fall2019-hw3`, `Spring2019-hw3`, `Fall2018-hw3` | [:link:](.//decison_making/using_minimum_switch_cases/p1.md) |
 | Use the least number of if-else | 4 | `Fall2017-hw3` | [:link:](./decison_making/minimum_number_of_if_else/P2.md) |
 | Intersection of 3 intervals | 6 | `Spring2019-hw3`, `Fall2018-hw3` | [:link:](./decison_making/intersection_of_three_intervals/p5.md) |
 | Check the triangle type | 5 | `Fall2018-hw3` | [:link:](./decison_making/triangle_detection/p4.md) |
 | Calculate the least number of bills | 5 | `Fall2018-hw5` | [:link:](./decison_making/minimum_number_of_bills/p6.md) |
 | Check if input is in the given interval | 7 | `Fall2018-hw4` | [:link:](.//decison_making/check_if_input_is_in_given_set/p1.md) |
+| 3 or 4 points on a line and check if they form a rhombus | 5 | `Spring2019-hw3` | [:link:](./decison_making/check_if_four_inputs_create_rhombus/p4.md) |
+| Check if inputs form a square | 6 | `Fall2019-hw3` | [:link:](./decison_making/check_if_inputs_create_sqaure/p4.md) |
+| Intersection on n intervals | 6 | `Fall2019-hw5` | [:link:](./decison_making/intersection_of_n_intervals/p8.md) |
+| Put same amount of waters in jars | 5 | `Spring2020-hw3` | [:link:](./decison_making/intersection_of_n_intervals/p8.md) |
+| Check if input is a leap year | 4 | `Spring2020-hw3` | [:link:](./decison_making/check_if_input_is_leapyear/p5.md) |
 
 
 
