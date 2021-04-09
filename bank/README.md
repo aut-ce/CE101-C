@@ -64,9 +64,7 @@ Contents:
 ## Decision making
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
-|             |            |             |      |
-|             |            |             |      |
-|             |            |             |      |
+| Sort 6 numbers in descending order | 5 | `Fall2015-hw3` | [:link:](./decison_making/sort_6_numbers_in_descending_order/p5.md) |
 
 
 ## Loop and Array
