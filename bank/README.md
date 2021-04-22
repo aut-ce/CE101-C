@@ -153,7 +153,7 @@ Contents:
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
 | Call by reference | 3 | `Spring2020-hw6` | [:link:](./pointer/call-by-reference/p5.md) |
-|             |            |             |      |
+| Dynamic matrix | 5 | `Fall2017-hw7` | [:link:](./pointer/dynamic-matrix/2.md) |
 |             |            |             |      |
 
 
