@@ -152,7 +152,7 @@ Contents:
 ## Pointer
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
-|             |            |             |      |
+| Call by reference | 3 | `Spring2020-hw6` | [:link:](./pointer/call-by-reference/p5.md) |
 |             |            |             |      |
 |             |            |             |      |
 
