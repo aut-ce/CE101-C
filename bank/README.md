@@ -164,7 +164,7 @@ Contents:
 | Replace string | 6 | `Spring2020-hw6` | [:link:](./pointer/replace-string/p2.md) |
 | Chance game | 6 | `Spring2020-hw6` | [:link:](./pointer/chance-game/p3.md) |
 | Sum of distinct numbers | 7 | `Spring2020-hw6` | [:link:](./pointer/sum-of-distinct-numbers/p4.md) |
-| Snail in matrix | 7 | `Spring2020-hw6` | [:link:](./pointer/snail-in-matrix/p5.md |
+| Snail in matrix | 7 | `Spring2020-hw6` | [:link:](./pointer/snail-in-matrix/p5.md) |
 
 ## Struct
 | Description | Difficulty | Occurrences | Link |
