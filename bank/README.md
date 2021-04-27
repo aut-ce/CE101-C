@@ -65,14 +65,14 @@ Contents:
 | Perimeter, Area, Angles Of Diamond | 4 | `Fall2016-hw2` | [:link:](./calculation%20and%20IO/perimeter-area-angles-of-diamond/p4.md) |
 | Calculate Geometric Features Of Square | 5 | `Fall2017-hw2` | [:link:](./calculation%20and%20IO/calculate-geometric-features-of-square/p4.md)
 | Calculate Mathematic Formula | 3| `Spring2019-hw2` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula/p3.md) |
-| Calculate Mathematic Formula 2 | 3| `Fall2017-hw4` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula-2) |
-| Calculate Mathematic Formula 3 | 3| `Fall2017-hw2` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula-3) |
-| Calculate Mathematic Formula 4 | 3| `Fall2016-hw2`| [:link:](./calculation%20and%20IO/calculate-mathematic-formula-4) |
-| Calculate Mathematic Formula 5 | 3| `Fall2018-hw2` , `Fall2019-hw2` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula-5) |
-| Calculate Mathematic Formula 6 | 3| `Spring2020-hw2` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula-6) |
-| Calculate Mathematic Formula 7 | 3| `Fall2020-hw2` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula-7) |
+| Calculate Mathematic Formula 2 | 3| `Fall2017-hw4` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula-2/P3.md) |
+| Calculate Mathematic Formula 3 | 3| `Fall2017-hw2` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula-3/P3.md) |
+| Calculate Mathematic Formula 4 | 3| `Fall2016-hw2`| [:link:](./calculation%20and%20IO/calculate-mathematic-formula-4/p3.md) |
+| Calculate Mathematic Formula 5 | 3| `Fall2018-hw2` , `Fall2019-hw2` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula-5/p3.md) |
+| Calculate Mathematic Formula 6 | 3| `Spring2020-hw2` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula-6/p6.md) |
+| Calculate Mathematic Formula 7 | 3| `Fall2020-hw2` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula-7/p1.md) |
 | Passenger Waiting For Next Train Arrival | 6 | `Spring2019-hw2` | [:link:](./calculation%20and%20IO/passenger-waiting-for-next-train-arrival/p4.md)
-| Parallelogram Area | 4 | `Spring2019-hw2` | [:link:](./calculation%20and%20IO/parallelogram-area)
+| Parallelogram Area | 4 | `Spring2019-hw2` | [:link:](./calculation%20and%20IO/parallelogram-area/p5.md)
 | Create Numbers By Operators | 4 | `Fall2017-hw2` , `Spring2019-hw2` | [:link:](./calculation%20and%20IO/create-numbers-by-operators/p5.md)|
 | Game Table | 1 | `Spring2019-hw2` | [:link:](./calculation%20and%20IO/game-table/p7.md)
 | Postage Cost | 5 | `Fall2018-hw2` | [:link:](./calculation%20and%20IO/postage-cost/p4.md)
