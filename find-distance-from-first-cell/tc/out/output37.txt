@@ -1,1 +1,0 @@
-y axis and x axis distances are : 5 5
