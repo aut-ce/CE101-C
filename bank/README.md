@@ -164,14 +164,14 @@ Contents:
 | Description                                                  | Difficulty | Occurrences                     | Link                                                         |
 | ------------------------------------------------------------ | ---------- | ------------------------------- | ------------------------------------------------------------ |
 | Sort date with qsort                                         | 8          | `Fall2015-hw7`                  | [🔗](./struct/sort-date-with-qsort/p3.md)                     |
-| Remove node with specific value                              | 5          | `Fall2015-hw7`                  | [🔗](./struct/remove-node-with-specific-value/p4.md)          |
+| Remove node with specific value                              | 5          | `Fall2015-hw7`                  | [🔗](./struct/remove-nodes-with-specific-value/p4.md)         |
 | Sum of rational numbers smaller than x                       | 7          | `Fall2015-hw7`,`Spring2019-hw6` | [🔗](./struct/sum-of-rational-numbers-smaller-than-x/p5.md)   |
 | Add x before y in linked list                                | 4          | `Fall2017-hw7`                  | [🔗](./struct/add-x-before-y-in-linkedlist/p4.md)             |
-| Sort n rational number in descending or ascending form       | 7          | `Fall2017-hw7`                  | [🔗](./struct/sort-n-rational-numbers-descending-or-ascending/p3.md) |
+| Sort n rational number in descending or ascending form       | 7          | `Fall2017-hw7`                  | [🔗](./struct/sort-n-rational-numbers/p3.md)                  |
 | Count repeat of characters                                   | 6          | `Fall2018-hw7`                  | [🔗](./struct/count-repeat-of-characters/p3.md)               |
 | Remove x with same values and keep the one with smallest y   | 7          | `Fall2018-hw7`                  | [🔗](./struct/remove-x-with-same-value-keep-smallest-y/p4.md) |
 | Sort two ascending linked list in ascending form             | 7          | `Fall2019-hw8`                  | [🔗](./struct/sort-two-ascending-linkedlist-in-ascending-form/p1.md) |
-| Replace two neighbour numbers with each other                | 6          | `Fall2019-hw8`                  | [🔗](./struct/replace-two-neighbour-numbers-with-eachother/p2.md) |
+| Replace two neighbour numbers with each other                | 6          | `Fall2019-hw8`                  | [🔗](./struct/replace-two-neighbour-number-with-eachother/p2.md) |
 | check if linked list is symmetrical                          | 5          | `Fall2019-hw8`                  | [🔗](./struct/check-if-linkedlist-is-Symmetrical/p3.md)       |
 | Sort students by thier average and student-id                | 7          | `Fall2019-hw8`                  | [🔗](./struct/sort-students-by-average-and-student-id/p4.md)  |
 | Phonebook for students                                       | 9          | `Fall2019-hw8`,`Spring2019-hw6` | [🔗](./struct/phonebook-for-students/p5.md)                   |
@@ -188,4 +188,3 @@ Contents:
 | Copy file content into another file                          | 3          | `Fall2017-hw7` | [🔗](./file/copy-file-content-into-another-file/5.md)        |
 | Read binary file and place min and max time into the beginning and end of file | 3          | `Fall2017-hw7` | [🔗](./file/read-time-struct-and-find-min-and-max-time/6.md) |
 | Find average, min and max time                               | 3          | `Fall2018-hw7` | [🔗](./file/find-average-min-and-max-time-from-file/p5.md)   |
-
