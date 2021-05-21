@@ -56,55 +56,55 @@ Contents:
 ## Calculation and IO
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
-| Weighted Average Scores | 2 | `Fall2015-hw3` , `Fall2016-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/weighted-average-scores/p3.md) |
-| Time Conflict | 6 | `Fall2016-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/time-conflict/p5.md) |
-| Time Conflict 2 | 6 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/time-conflict-2/p8.md) |
-|  Print Random Even Numbers | 4 | `Fall2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/print-random-even-numbers/p6.md)
-|  Print Random Even Numbers 2 | 4 | `Fall2016-hw2`| [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/print-random-even-numbers-2/p6.md)
-|  Print Random Even Numbers 3 | 4 | `Fall2017-hw2` , `Fall2018-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/print-random-even-numbers-3/p6.md)
-| Perimeter, Area, Angles Of Diamond | 4 | `Fall2016-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/perimeter-area-angles-of-diamond/p4.md)           |
-| Calculate Geometric Features Of Square | 5 | `Fall2017-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-geometric-features-of-square/p4.md)
-| Calculate Mathematic Formula | 3| `Spring2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-mathematic-formula/p3.md) |
-| Calculate Mathematic Formula 2 | 3| `Fall2017-hw4` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-mathematic-formula-2/P3.md) |
-| Calculate Mathematic Formula 3 | 3| `Fall2017-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-mathematic-formula-3/P3.md) |
-| Calculate Mathematic Formula 4 | 3| `Fall2016-hw2`| [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-mathematic-formula-4/p3.md) |
-| Calculate Mathematic Formula 5 | 3| `Fall2018-hw2` , `Fall2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-mathematic-formula-5/p3.md) |
-| Calculate Mathematic Formula 6 | 3| `Spring2020-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-mathematic-formula-6/p6.md) |
-| Calculate Mathematic Formula 7 | 3| `Fall2020-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-mathematic-formula-7/p1.md) |
-| Passenger Waiting For Next Train Arrival | 6 | `Spring2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/passenger-waiting-for-next-train-arrival/p4.md)
-| Parallelogram Area | 4 | `Spring2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/parallelogram-area/p5.md)
-| Create Numbers By Operators | 4 | `Fall2017-hw2` , `Spring2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/create-numbers-by-operators/p5.md)|
-| Game Table | 1 | `Spring2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/game-table/p7.md)
-| Postage Cost | 5 | `Fall2018-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/postage-cost/p4.md)
-| Perimeter , Area Of Trapezium | 5 | `Fall2018-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/perimeter-area-of-trapezium/p5.md)
-| Create Triangle With Random Vertices | 5 | `Fall2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/create-triangle-with-random-vertices/p5.md)
-| Calculate BMI | 3 | `Spring2020-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-BMI/p1.md)
-| Make Fruit Compote | 5 | `Spring2020-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/make-fruit-compote/p3.md)
-| Location , Movements Number Of Rabbits | 5 | `Spring2020-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/location-movement-number-of-rabbit/p4.md)
-| Exchange Variables | 4 | `Spring2020-hw2` | [:link:](https://github.com/aut-ce/CE101/tree/calculation-IO/bank/calculation%20and%20IO/exchange-variables)
-| Calculate Number Of Excel Columns | 8 | `Spring2020-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-number-of-excel-columns/p7.md)
-| Estimate Match Result | 6 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/estimate-match-result/p2.md)
-| Last Point Coordinates Of Rectangle | 4 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/last-point-coordinates-of-rectangle/p5.md)
-| Colorful Rings | 7 | `Fall2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/colorful-rings/p6.md)
-| Number Of Lighted LEDs | 7 | `Fall2019-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/number-of-lighted-LEDs/p6.md)
-| Pishmargs Num | 8 | `Fall2019-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/pishmargs-num/p7.md)
-| Shortest Path | 7 | `Spring2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/shortest-path/p1.md)
-| Shortest Sum Of Distances Between Friends | 4 | `Spring2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/shortest-sum-of-distances-between-freinds/p3.md)
-| Third Side Length Of Triangle | 5 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/third-side-length-of-triangle/p3.md)
-| Calculate Salary | 3 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-salary/p4.md)
-| Minimum Squares Number | 3 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/minimum-squares-number/p7.md)
-| Calculation Output | 4 | `Fall2016-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-output/p1.md)
-| Calculation Output 2 | 4 | `Fall2017-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-output-2/P1.md)
-| Calculation Output 3 | 4 | `Fall2018-hw2` , `Fall2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-output-3/p1.md)
-| Calculation Output 4 | 4 | `Fall2018-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-output-4/p1.md)
-| Calculation Output 5 | 4 | `Spring2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-output-5/p1.md)
-| Calculation Output And Cast Question | 4 | `Fall2020-hw3` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/calculate-output-and-cast-question/p1.md)
-| Cast Question | 4 | `Fall2016-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/cast-question/p2.md)
-| Cast Question 2 | 4 | `Fall2018-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/cast-question-2/p2.md)
-| Cast Question 3 | 4 | `Spring2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/cast-question-3/p2.md)
-| Cast Question 4 | 4 | `Fall2019-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/cast-question-4/p2.md)
-| Find Compiling Errors | 4 | `Spring2020-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/find-compiling-errors/p8.md)
-| Find Compiling Errors 2 | 4 | `Fall2020-hw2` | [:link:](https://github.com/aut-ce/CE101/blob/calculation-IO/bank/calculation%20and%20IO/find-compiling-errors-2/p2.md)
+| Weighted Average Scores | 2 | `Fall2015-hw3` , `Fall2016-hw3` | [:link:](./calculation%20and%20IO/weighted-average-scores/p3.md) |
+| Time Conflict | 6 | `Fall2016-hw2` | [:link:](./calculation%20and%20IO/time-conflict/p5.md) |
+| Time Conflict 2 | 6 | `Fall2020-hw3` | [:link:](./calculation%20and%20IO/time-conflict-2/p8.md) |
+|  Print Random Even Numbers | 4 | `Fall2019-hw2` | [:link:](./calculation%20and%20IO/print-random-even-numbers/p6.md)
+|  Print Random Even Numbers 2 | 4 | `Fall2016-hw2`| [:link:](./calculation%20and%20IO/print-random-even-numbers-2/p6.md)
+|  Print Random Even Numbers 3 | 4 | `Fall2017-hw2` , `Fall2018-hw2` | [:link:](./calculation%20and%20IO/print-random-even-numbers-3/p6.md)
+| Perimeter, Area, Angles Of Diamond | 4 | `Fall2016-hw2` | [:link:](./calculation%20and%20IO/perimeter-area-angles-of-diamond/p4.md) |
+| Calculate Geometric Features Of Square | 5 | `Fall2017-hw2` | [:link:](./calculation%20and%20IO/calculate-geometric-features-of-square/p4.md)
+| Calculate Mathematic Formula | 3| `Spring2019-hw2` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula/p3.md) |
+| Calculate Mathematic Formula 2 | 3| `Fall2017-hw4` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula-2/P3.md) |
+| Calculate Mathematic Formula 3 | 3| `Fall2017-hw2` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula-3/P3.md) |
+| Calculate Mathematic Formula 4 | 3| `Fall2016-hw2`| [:link:](./calculation%20and%20IO/calculate-mathematic-formula-4/p3.md) |
+| Calculate Mathematic Formula 5 | 3| `Fall2018-hw2` , `Fall2019-hw2` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula-5/p3.md) |
+| Calculate Mathematic Formula 6 | 3| `Spring2020-hw2` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula-6/p6.md) |
+| Calculate Mathematic Formula 7 | 3| `Fall2020-hw2` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula-7/p1.md) |
+| Passenger Waiting For Next Train Arrival | 6 | `Spring2019-hw2` | [:link:](./calculation%20and%20IO/passenger-waiting-for-next-train-arrival/p4.md)
+| Parallelogram Area | 4 | `Spring2019-hw2` | [:link:](./calculation%20and%20IO/parallelogram-area/p5.md)
+| Create Numbers By Operators | 4 | `Fall2017-hw2` , `Spring2019-hw2` | [:link:](./calculation%20and%20IO/create-numbers-by-operators/p5.md)|
+| Game Table | 1 | `Spring2019-hw2` | [:link:](./calculation%20and%20IO/game-table/p7.md)
+| Postage Cost | 5 | `Fall2018-hw2` | [:link:](./calculation%20and%20IO/postage-cost/p4.md)
+| Perimeter , Area Of Trapezium | 5 | `Fall2018-hw2` | [:link:](./calculation%20and%20IO/perimeter-area-of-trapezium/p5.md)
+| Create Triangle With Random Vertices | 5 | `Fall2019-hw2` | [:link:](./calculation%20and%20IO/create-triangle-with-random-vertices/p5.md)
+| Calculate BMI | 3 | `Spring2020-hw2` | [:link:](./calculation%20and%20IO/calculate-BMI/p1.md)
+| Make Fruit Compote | 5 | `Spring2020-hw2` | [:link:](./calculation%20and%20IO/make-fruit-compote/p3.md)
+| Location , Movements Number Of Rabbits | 5 | `Spring2020-hw2` | [:link:](./calculation%20and%20IO/location-movement-number-of-rabbit/p4.md)
+| Exchange Variables | 4 | `Spring2020-hw2` | [:link:](./calculation%20and%20IO/exchange-variables/p5.md)
+| Calculate Number Of Excel Columns | 8 | `Spring2020-hw2` | [:link:](./calculation%20and%20IO/calculate-number-of-excel-columns/p7.md)
+| Estimate Match Result | 6 | `Fall2020-hw3` | [:link:](./calculation%20and%20IO/estimate-match-result/p2.md)
+| Last Point Coordinates Of Rectangle | 4 | `Fall2020-hw3` | [:link:](./calculation%20and%20IO/last-point-coordinates-of-rectangle/p5.md)
+| Colorful Rings | 7 | `Fall2019-hw2` | [:link:](./calculation%20and%20IO/colorful-rings/p6.md)
+| Number Of Lighted LEDs | 7 | `Fall2019-hw3` | [:link:](./calculation%20and%20IO/number-of-lighted-LEDs/p6.md)
+| Pishmargs Num | 8 | `Fall2019-hw3` | [:link:](./calculation%20and%20IO/pishmargs-num/p7.md)
+| Shortest Path | 7 | `Spring2020-hw3` | [:link:](./calculation%20and%20IO/shortest-path/p1.md)
+| Shortest Sum Of Distances Between Friends | 4 | `Spring2020-hw3` | [:link:](./calculation%20and%20IO/shortest-sum-of-distances-between-freinds/p3.md)
+| Third Side Length Of Triangle | 5 | `Fall2020-hw3` | [:link:](./calculation%20and%20IO/third-side-length-of-triangle/p3.md)
+| Calculate Salary | 3 | `Fall2020-hw3` | [:link:](./calculation%20and%20IO/calculate-salary/p4.md)
+| Minimum Squares Number | 3 | `Fall2020-hw3` | [:link:](./calculation%20and%20IO/minimum-squares-number/p7.md)
+| Calculation Output | 4 | `Fall2016-hw2` | [:link:](./calculation%20and%20IO/calculate-output/p1.md)
+| Calculation Output 2 | 4 | `Fall2017-hw2` | [:link:](./calculation%20and%20IO/calculate-output-2/P1.md)
+| Calculation Output 3 | 4 | `Fall2018-hw2` , `Fall2019-hw2` | [:link:](./calculation%20and%20IO/calculate-output-3/p1.md)
+| Calculation Output 4 | 4 | `Fall2018-hw3` | [:link:](./calculation%20and%20IO/calculate-output-4/p1.md)
+| Calculation Output 5 | 4 | `Spring2019-hw2` | [:link:](./calculation%20and%20IO/calculate-output-5/p1.md)
+| Calculation Output And Cast Question | 4 | `Fall2020-hw3` | [:link:](./calculation%20and%20IO/calculate-output-and-cast-question/p1.md)
+| Cast Question | 4 | `Fall2016-hw2` | [:link:](./calculation%20and%20IO/cast-question/p2.md)
+| Cast Question 2 | 4 | `Fall2018-hw2` | [:link:](./calculation%20and%20IO/cast-question-2/p2.md)
+| Cast Question 3 | 4 | `Spring2019-hw2` | [:link:](./calculation%20and%20IO/cast-question-3/p2.md)
+| Cast Question 4 | 4 | `Fall2019-hw2` | [:link:](./calculation%20and%20IO/cast-question-4/p2.md)
+| Find Compiling Errors | 4 | `Spring2020-hw2` | [:link:](./calculation%20and%20IO/find-compiling-errors/p8.md)
+| Find Compiling Errors 2 | 4 | `Fall2020-hw2` | [:link:](./calculation%20and%20IO/find-compiling-errors-2/p2.md)
 ## Decision making
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
@@ -152,10 +152,18 @@ Contents:
 ## Pointer
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
-|             |            |             |      |
-|             |            |             |      |
-|             |            |             |      |
-
+| Dynamic matrix | 5 | `Fall2017-hw7` | [:link:](./pointer/dynamic-matrix/2.md) |
+| Find the intersection of two sets | 5 | `Fall2018-hw5` | [:link:](./pointer/intersection-of-two-sets/p2.md) |
+| Find repeated letters in a string | 6 | `Spring2019-hw7` | [:link:](./pointer/repeated-letters/p2.md) |
+| Sum of rational numbers | 5 | `Spring2019-hw7` | [:link:](./pointer/sum-of-rational-numbers/p4.md) |
+| Transpose and multiplication of matrix | 6 | `Spring2019-hw7` | [:link:](./pointer/transpose-and-multiplication-of-matrix/p3.md) |
+| Remove a string from another one | 6 | `Fall2019-hw7` | [:link:](./pointer/remove-string/p7.md) |
+| Print subsets | 8 | `Fall2019-hw7` | [:link:](./pointer/print-subsets/p5.md) |
+| Find the smallest missing positive integer | 4 | `Fall2019-hw7` | [:link:](./pointer/find-smallest-missing-positive-int/p6.md) |
+| Replace string | 6 | `Spring2020-hw6` | [:link:](./pointer/replace-string/p2.md) |
+| Chance game | 6 | `Spring2020-hw6` | [:link:](./pointer/chance-game/p3.md) |
+| Sum of distinct numbers | 7 | `Spring2020-hw6` | [:link:](./pointer/sum-of-distinct-numbers/p4.md) |
+| Snail in matrix | 7 | `Spring2020-hw6` | [:link:](./pointer/snail-in-matrix/p5.md) |
 
 ## Struct
 | Description | Difficulty | Occurrences | Link |
