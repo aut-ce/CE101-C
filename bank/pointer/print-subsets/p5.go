@@ -42,6 +42,7 @@ func main() {
 	})
 
 	for _, s := range subsets {
+		sort.Ints(s)
 		fmt.Printf("{ ")
 		for _, e := range s {
 			fmt.Printf("%d ", e)
