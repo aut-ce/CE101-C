@@ -153,7 +153,7 @@ Contents:
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
 | Dynamic matrix | 5 | `Fall2017-hw7` | [:link:](./pointer/dynamic-matrix/2.md) |
-| Find the intersection of two sets | 5 | `Fall2018-hw5` | [:link:](./pointer/intersection-of-two-sets/p2.md) |
+| Find the intersection of two sets | 5 | `Fall2018-hw7` | [:link:](./pointer/intersection-of-two-sets/p2.md) |
 | Find repeated letters in a string | 6 | `Spring2019-hw7` | [:link:](./pointer/repeated-letters/p2.md) |
 | Sum of rational numbers | 5 | `Spring2019-hw7` | [:link:](./pointer/sum-of-rational-numbers/p4.md) |
 | Transpose and multiplication of matrix | 6 | `Spring2019-hw7` | [:link:](./pointer/transpose-and-multiplication-of-matrix/p3.md) |
