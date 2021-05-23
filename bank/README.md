@@ -164,6 +164,14 @@ Contents:
 | Chance game | 6 | `Spring2020-hw6` | [:link:](./pointer/chance-game/p3.md) |
 | Sum of distinct numbers | 7 | `Spring2020-hw6` | [:link:](./pointer/sum-of-distinct-numbers/p4.md) |
 | Snail in matrix | 7 | `Spring2020-hw6` | [:link:](./pointer/snail-in-matrix/p5.md) |
+| Find output | 4 | `Fall2015-hw7` | [:link:](./pointer/find-output/p1.md) |
+| Find output 2 | 4 | `Fall2017-hw7` | [:link:](./pointer/find-output-2/1.md) |
+| Find output 3 | 4 | `Fall2018-hw7` | [:link:](./pointer/find-output-3/p1.md) |
+| Find output 4 | 4 | `Spring2019-hw7` | [:link:](./pointer/find-output-4/p1.md) |
+| Find output 5 | 4 | `Fall2019-hw7` | [:link:](./pointer/find-output-5/p1.md) |
+| Find output 6 | 4 | `Fall2019-hw7` | [:link:](./pointer/find-output-6/p3.md) |
+| Find output 7 | 4 | `Fall2019-hw7` | [:link:](./pointer/find-output-7/p4.md) |
+| Debug and find output | 5 | ‍‍`‍Spring2020-hw6` | [:link:](./pointer/debug-find-output/p1.md) |
 
 ## Struct
 
