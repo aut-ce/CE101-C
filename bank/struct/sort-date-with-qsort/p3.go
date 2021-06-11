@@ -34,14 +34,15 @@ func main() {
 	var num int
 	var dir int
 
-	fmt.Scanf("%d", &num)
+	fmt.Scanf("%d ", &num)
 
 	var dates []Date
 
-	for i := 0; i <= num; i++ {
+	for i := 0; i < num; i++ {
 		dates = append(dates, Date{})
 		fmt.Scanf("%d %d %d", &dates[i].Year, &dates[i].Month, &dates[i].Day)
 	}
+
 	fmt.Scanf("%d", &dir)
 
 	sort.Sort(DateArray(dates))
@@ -56,4 +57,5 @@ func main() {
 			fmt.Printf("%d/%d/%d\n", dates[i].Year, dates[i].Month, dates[i].Day)
 		}
 	}
+	
 }
