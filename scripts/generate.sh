@@ -42,7 +42,7 @@ fi
 tc="$problem_dir/tc"
 
 go=$(find $problem_dir -depth 1 -type f -name "*.go")
-python=$(find $problem_dir -type f -name "*.py")
+python=$(find $problem_dir -depth 1 -type f -name "*.py")
 
 if ! [ -d $tc ]; then
         echo "no test case found."
@@ -74,7 +74,7 @@ if ! [ -f $tc/tester.cpp ]; then
                 printf "$tc/generator.go took %ds.\n" $took
         fi
 
-        if [ -f $go ]; then
+        if [ -f "$go" ]; then
                 for input in "$tc/in/"*.txt; do
                         i=$(basename $input)
                         i=${i#input}
@@ -90,7 +90,7 @@ if ! [ -f $tc/tester.cpp ]; then
                         echo "test $i: $input --> $tc/out/output$i.txt"
                         echo
                 done
-        elif [ -f %python ]; then
+        elif [ -f "$python" ]; then
                 for input in "$tc/in/"*.txt; do
                         i=$(basename $input)
                         i=${i#input}
