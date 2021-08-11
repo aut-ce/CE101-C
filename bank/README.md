@@ -145,27 +145,27 @@ Contents:
 ## Function
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
-| Binary code furthest ones | 4 | `Fall2019-hw5` | [:link:](./functions/furthest-space-between-ones-in-a-number's-binary-code/p5.md) |
-| Smallest primary and symmetrical number |4| `Fall2019-hw5` | [:link:](./functions/smallest-primary-and-symmetrical-number-bigger-than-N/p6.md) |
-| Calculating a given sequence | 4 | `Fall2019-hw5` | [:link:](./functions/calculating-a-sequence/p7.md) |
-| Intersection of multiple tuples | 6 | `Fall2019-hw5` | [:link:](./functions/intersection-of-multiple-tuples/p8.md) |
-| Partially remove a string | 5 | `Fall2019-hw7` | [:link:](./functions/removing-part-of-a-string-identical-to-another/p7.md) |
-| Capitalize a messy string | 4 | `Fall2020-hw4` | [:link:](./functions/capitallize-strings/p3.md) |
-| Busiest time | 6 | `Fall2020-hw5` | [:link:](./functions/busiest-time-of-university/p1.md)|
-| Matrix determinant | 6 | `Fall2020-hw5` | [:link:](./functions/determinant-of-a-matrix/p2.md) |
-| String containing test | 3 | `Fall2020-hw5` | [:link:](./functions/string-containing-test/p3.md)|
-| Decode string with shifted letters | 4 | `Fall2020-hw5` | [:link:](./functions/decode-sentance-when-letter-are-shifted/p4.md)|
-| Recursive function | 6 | `Fall2020-hw5` | [:link:](./functions/fancy-recursive-function-example/p5.md) |
-| Right and left digit check | 2 | `Fall2020-Midterm` | [:link:](./functions/number-right-left-check/p3.md) |
-| Number in a series check | 4 | `Spring2019-hw4` | [:link:](./functions/generate-number-from-series-test/p3.md)|
-| Game of calculations | 5 | `Spring2019-hw4` | [:link:](./functions/math-test/p5.md) |
-| Mth digit of number N | 2 | `Spring2019-hw5` | [:link:](./functions/m_th-digit-of-number-N/p1.md) |
-| Fibonacci seriese | 5 | `Spring2019-hw5` | [:link:](./functions/fibonacci-series/p4.md) |
-| Simple calculator | 5 | `Spring2019-hw5` | [:link:](./functions/calculator/p5.md) |
-| Progress stairs | 3 | `Spring2020-hw4` | [:link:](./functions/progress-stairs/p2.md) |
-| Matrix Determinant 2 | 6 | `Spring2020-hw4` | [:link:](./functions/determinant-matrix-2/p3.md) |
-| Number base changer | 7 | `Spring2020-hw4` | [:link:](./functions/number-base-changer/p4.md) |
-| Digit exchanger | 6 | `Spring2020-hw4` | [:link:](./functions/digit-exchanger/p5.md)|
+| Binary code furthest ones | 4 | `Fall2019-hw5` | [:link:](./function/furthest-space-between-ones-in-a-number's-binary-code/p5.md) |
+| Smallest primary and symmetrical number |4| `Fall2019-hw5` | [:link:](./function/smallest-primary-and-symmetrical-number-bigger-than-N/p6.md) |
+| Calculating a given sequence | 4 | `Fall2019-hw5` | [:link:](./function/calculating-a-sequence/p7.md) |
+| Intersection of multiple tuples | 6 | `Fall2019-hw5` | [:link:](./function/intersection-of-multiple-tuples/p8.md) |
+| Partially remove a string | 5 | `Fall2019-hw7` | [:link:](./function/removing-part-of-a-string-identical-to-another/p7.md) |
+| Capitalize a messy string | 4 | `Fall2020-hw4` | [:link:](./function/capitallize-strings/p3.md) |
+| Busiest time | 6 | `Fall2020-hw5` | [:link:](./function/busiest-time-of-university/p1.md)|
+| Matrix determinant | 6 | `Fall2020-hw5` | [:link:](./function/determinant-of-a-matrix/p2.md) |
+| String containing test | 3 | `Fall2020-hw5` | [:link:](./function/string-containing-test/p3.md)|
+| Decode string with shifted letters | 4 | `Fall2020-hw5` | [:link:](./function/decode-sentance-when-letter-are-shifted/p4.md)|
+| Recursive function | 6 | `Fall2020-hw5` | [:link:](./function/fancy-recursive-function-example/p5.md) |
+| Right and left digit check | 2 | `Fall2020-Midterm` | [:link:](./function/number-right-left-check/p3.md) |
+| Number in a series check | 4 | `Spring2019-hw4` | [:link:](./function/generate-number-from-series-test/p3.md)|
+| Game of calculations | 5 | `Spring2019-hw4` | [:link:](./function/math-test/p5.md) |
+| Mth digit of number N | 2 | `Spring2019-hw5` | [:link:](./function/m_th-digit-of-number-N/p1.md) |
+| Fibonacci seriese | 5 | `Spring2019-hw5` | [:link:](./function/fibonacci-series/p4.md) |
+| Simple calculator | 5 | `Spring2019-hw5` | [:link:](./function/calculator/p5.md) |
+| Progress stairs | 3 | `Spring2020-hw4` | [:link:](./function/progress-stairs/p2.md) |
+| Matrix Determinant 2 | 6 | `Spring2020-hw4` | [:link:](./function/determinant-matrix-2/p3.md) |
+| Number base changer | 7 | `Spring2020-hw4` | [:link:](./function/number-base-changer/p4.md) |
+| Digit exchanger | 6 | `Spring2020-hw4` | [:link:](./function/digit-exchanger/p5.md)|
 
 ## Pointer
 | Description | Difficulty | Occurrences | Link |
