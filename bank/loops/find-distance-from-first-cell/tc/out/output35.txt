@@ -1,1 +1,0 @@
-y axis and x axis distances are : 7 8

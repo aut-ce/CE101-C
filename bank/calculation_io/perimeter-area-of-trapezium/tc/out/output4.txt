@@ -1,2 +1,0 @@
-Perimeter: 59.22
-Area: 107.40

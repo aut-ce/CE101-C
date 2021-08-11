@@ -1,2 +1,0 @@
-Result for "Z" is 17.85
-Result for "X" is 1.200
