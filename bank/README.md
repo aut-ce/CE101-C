@@ -56,81 +56,81 @@ Contents:
 ## Calculation and IO
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
-| Weighted Average Scores | 2 | `Fall2015-hw3` , `Fall2016-hw3` | [:link:](./calculation%20and%20IO/weighted-average-scores/p3.md) |
-| Time Conflict | 6 | `Fall2016-hw2` | [:link:](./calculation%20and%20IO/time-conflict/p5.md) |
-| Time Conflict 2 | 6 | `Fall2020-hw3` | [:link:](./calculation%20and%20IO/time-conflict-2/p8.md) |
-|  Print Random Even Numbers | 4 | `Fall2019-hw2` | [:link:](./calculation%20and%20IO/print-random-even-numbers/p6.md)
-|  Print Random Even Numbers 2 | 4 | `Fall2016-hw2`| [:link:](./calculation%20and%20IO/print-random-even-numbers-2/p6.md)
-|  Print Random Even Numbers 3 | 4 | `Fall2017-hw2` , `Fall2018-hw2` | [:link:](./calculation%20and%20IO/print-random-even-numbers-3/p6.md)
-| Perimeter, Area, Angles Of Diamond | 4 | `Fall2016-hw2` | [:link:](./calculation%20and%20IO/perimeter-area-angles-of-diamond/p4.md) |
-| Calculate Geometric Features Of Square | 5 | `Fall2017-hw2` | [:link:](./calculation%20and%20IO/calculate-geometric-features-of-square/p4.md)
-| Calculate Mathematic Formula | 3| `Spring2019-hw2` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula/p3.md) |
-| Calculate Mathematic Formula 2 | 3| `Fall2017-hw4` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula-2/P3.md) |
-| Calculate Mathematic Formula 3 | 3| `Fall2017-hw2` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula-3/P3.md) |
-| Calculate Mathematic Formula 4 | 3| `Fall2016-hw2`| [:link:](./calculation%20and%20IO/calculate-mathematic-formula-4/p3.md) |
-| Calculate Mathematic Formula 5 | 3| `Fall2018-hw2` , `Fall2019-hw2` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula-5/p3.md) |
-| Calculate Mathematic Formula 6 | 3| `Spring2020-hw2` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula-6/p6.md) |
-| Calculate Mathematic Formula 7 | 3| `Fall2020-hw2` | [:link:](./calculation%20and%20IO/calculate-mathematic-formula-7/p1.md) |
-| Passenger Waiting For Next Train Arrival | 6 | `Spring2019-hw2` | [:link:](./calculation%20and%20IO/passenger-waiting-for-next-train-arrival/p4.md)
-| Parallelogram Area | 4 | `Spring2019-hw2` | [:link:](./calculation%20and%20IO/parallelogram-area/p5.md)
-| Create Numbers By Operators | 4 | `Fall2017-hw2` , `Spring2019-hw2` | [:link:](./calculation%20and%20IO/create-numbers-by-operators/p5.md)|
-| Game Table | 1 | `Spring2019-hw2` | [:link:](./calculation%20and%20IO/game-table/p7.md)
-| Postage Cost | 5 | `Fall2018-hw2` | [:link:](./calculation%20and%20IO/postage-cost/p4.md)
-| Perimeter , Area Of Trapezium | 5 | `Fall2018-hw2` | [:link:](./calculation%20and%20IO/perimeter-area-of-trapezium/p5.md)
-| Create Triangle With Random Vertices | 5 | `Fall2019-hw2` | [:link:](./calculation%20and%20IO/create-triangle-with-random-vertices/p5.md)
-| Calculate BMI | 3 | `Spring2020-hw2` | [:link:](./calculation%20and%20IO/calculate-BMI/p1.md)
-| Make Fruit Compote | 5 | `Spring2020-hw2` | [:link:](./calculation%20and%20IO/make-fruit-compote/p3.md)
-| Location , Movements Number Of Rabbits | 5 | `Spring2020-hw2` | [:link:](./calculation%20and%20IO/location-movement-number-of-rabbit/p4.md)
-| Exchange Variables | 4 | `Spring2020-hw2` | [:link:](./calculation%20and%20IO/exchange-variables/p5.md)
-| Calculate Number Of Excel Columns | 8 | `Spring2020-hw2` | [:link:](./calculation%20and%20IO/calculate-number-of-excel-columns/p7.md)
-| Estimate Match Result | 6 | `Fall2020-hw3` | [:link:](./calculation%20and%20IO/estimate-match-result/p2.md)
-| Last Point Coordinates Of Rectangle | 4 | `Fall2020-hw3` | [:link:](./calculation%20and%20IO/last-point-coordinates-of-rectangle/p5.md)
-| Colorful Rings | 7 | `Fall2019-hw2` | [:link:](./calculation%20and%20IO/colorful-rings/p6.md)
-| Number Of Lighted LEDs | 7 | `Fall2019-hw3` | [:link:](./calculation%20and%20IO/number-of-lighted-LEDs/p6.md)
-| Pishmargs Num | 8 | `Fall2019-hw3` | [:link:](./calculation%20and%20IO/pishmargs-num/p7.md)
-| Shortest Path | 7 | `Spring2020-hw3` | [:link:](./calculation%20and%20IO/shortest-path/p1.md)
-| Shortest Sum Of Distances Between Friends | 4 | `Spring2020-hw3` | [:link:](./calculation%20and%20IO/shortest-sum-of-distances-between-freinds/p3.md)
-| Third Side Length Of Triangle | 5 | `Fall2020-hw3` | [:link:](./calculation%20and%20IO/third-side-length-of-triangle/p3.md)
-| Calculate Salary | 3 | `Fall2020-hw3` | [:link:](./calculation%20and%20IO/calculate-salary/p4.md)
-| Minimum Squares Number | 3 | `Fall2020-hw3` | [:link:](./calculation%20and%20IO/minimum-squares-number/p7.md)
-| Calculation Output | 4 | `Fall2016-hw2` | [:link:](./calculation%20and%20IO/calculate-output/p1.md)
-| Calculation Output 2 | 4 | `Fall2017-hw2` | [:link:](./calculation%20and%20IO/calculate-output-2/P1.md)
-| Calculation Output 3 | 4 | `Fall2018-hw2` , `Fall2019-hw2` | [:link:](./calculation%20and%20IO/calculate-output-3/p1.md)
-| Calculation Output 4 | 4 | `Fall2018-hw3` | [:link:](./calculation%20and%20IO/calculate-output-4/p1.md)
-| Calculation Output 5 | 4 | `Spring2019-hw2` | [:link:](./calculation%20and%20IO/calculate-output-5/p1.md)
-| Calculation Output And Cast Question | 4 | `Fall2020-hw3` | [:link:](./calculation%20and%20IO/calculate-output-and-cast-question/p1.md)
-| Cast Question | 4 | `Fall2016-hw2` | [:link:](./calculation%20and%20IO/cast-question/p2.md)
-| Cast Question 2 | 4 | `Fall2018-hw2` | [:link:](./calculation%20and%20IO/cast-question-2/p2.md)
-| Cast Question 3 | 4 | `Spring2019-hw2` | [:link:](./calculation%20and%20IO/cast-question-3/p2.md)
-| Cast Question 4 | 4 | `Fall2019-hw2` | [:link:](./calculation%20and%20IO/cast-question-4/p2.md)
-| Find Compiling Errors | 4 | `Spring2020-hw2` | [:link:](./calculation%20and%20IO/find-compiling-errors/p8.md)
-| Find Compiling Errors 2 | 4 | `Fall2020-hw2` | [:link:](./calculation%20and%20IO/find-compiling-errors-2/p2.md)
+| Weighted Average Scores | 2 | `Fall2015-hw3` , `Fall2016-hw3` | [:link:](./calculation_io/weighted-average-scores/p3.md) |
+| Time Conflict | 6 | `Fall2016-hw2` | [:link:](./calculation_io/time-conflict/p5.md) |
+| Time Conflict 2 | 6 | `Fall2020-hw3` | [:link:](./calculation_io/time-conflict-2/p8.md) |
+|  Print Random Even Numbers | 4 | `Fall2019-hw2` | [:link:](./calculation_io/print-random-even-numbers/p6.md)
+|  Print Random Even Numbers 2 | 4 | `Fall2016-hw2`| [:link:](./calculation_io/print-random-even-numbers-2/p6.md)
+|  Print Random Even Numbers 3 | 4 | `Fall2017-hw2` , `Fall2018-hw2` | [:link:](./calculation_io/print-random-even-numbers-3/p6.md)
+| Perimeter, Area, Angles Of Diamond | 4 | `Fall2016-hw2` | [:link:](./calculation_io/perimeter-area-angles-of-diamond/p4.md) |
+| Calculate Geometric Features Of Square | 5 | `Fall2017-hw2` | [:link:](./calculation_io/calculate-geometric-features-of-square/p4.md)
+| Calculate Mathematic Formula | 3| `Spring2019-hw2` | [:link:](./calculation_io/calculate-mathematic-formula/p3.md) |
+| Calculate Mathematic Formula 2 | 3| `Fall2017-hw4` | [:link:](./calculation_io/calculate-mathematic-formula-2/P3.md) |
+| Calculate Mathematic Formula 3 | 3| `Fall2017-hw2` | [:link:](./calculation_io/calculate-mathematic-formula-3/P3.md) |
+| Calculate Mathematic Formula 4 | 3| `Fall2016-hw2`| [:link:](./calculation_io/calculate-mathematic-formula-4/p3.md) |
+| Calculate Mathematic Formula 5 | 3| `Fall2018-hw2` , `Fall2019-hw2` | [:link:](./calculation_io/calculate-mathematic-formula-5/p3.md) |
+| Calculate Mathematic Formula 6 | 3| `Spring2020-hw2` | [:link:](./calculation_io/calculate-mathematic-formula-6/p6.md) |
+| Calculate Mathematic Formula 7 | 3| `Fall2020-hw2` | [:link:](./calculation_io/calculate-mathematic-formula-7/p1.md) |
+| Passenger Waiting For Next Train Arrival | 6 | `Spring2019-hw2` | [:link:](./calculation_io/passenger-waiting-for-next-train-arrival/p4.md)
+| Parallelogram Area | 4 | `Spring2019-hw2` | [:link:](./calculation_io/parallelogram-area/p5.md)
+| Create Numbers By Operators | 4 | `Fall2017-hw2` , `Spring2019-hw2` | [:link:](./calculation_io/create-numbers-by-operators/p5.md)|
+| Game Table | 1 | `Spring2019-hw2` | [:link:](./calculation_io/game-table/p7.md)
+| Postage Cost | 5 | `Fall2018-hw2` | [:link:](./calculation_io/postage-cost/p4.md)
+| Perimeter , Area Of Trapezium | 5 | `Fall2018-hw2` | [:link:](./calculation_io/perimeter-area-of-trapezium/p5.md)
+| Create Triangle With Random Vertices | 5 | `Fall2019-hw2` | [:link:](./calculation_io/create-triangle-with-random-vertices/p5.md)
+| Calculate BMI | 3 | `Spring2020-hw2` | [:link:](./calculation_io/calculate-BMI/p1.md)
+| Make Fruit Compote | 5 | `Spring2020-hw2` | [:link:](./calculation_io/make-fruit-compote/p3.md)
+| Location , Movements Number Of Rabbits | 5 | `Spring2020-hw2` | [:link:](./calculation_io/location-movement-number-of-rabbit/p4.md)
+| Exchange Variables | 4 | `Spring2020-hw2` | [:link:](./calculation_io/exchange-variables/p5.md)
+| Calculate Number Of Excel Columns | 8 | `Spring2020-hw2` | [:link:](./calculation_io/calculate-number-of-excel-columns/p7.md)
+| Estimate Match Result | 6 | `Fall2020-hw3` | [:link:](./calculation_io/estimate-match-result/p2.md)
+| Last Point Coordinates Of Rectangle | 4 | `Fall2020-hw3` | [:link:](./calculation_io/last-point-coordinates-of-rectangle/p5.md)
+| Colorful Rings | 7 | `Fall2019-hw2` | [:link:](./calculation_io/colorful-rings/p6.md)
+| Number Of Lighted LEDs | 7 | `Fall2019-hw3` | [:link:](./calculation_io/number-of-lighted-LEDs/p6.md)
+| Pishmargs Num | 8 | `Fall2019-hw3` | [:link:](./calculation_io/pishmargs-num/p7.md)
+| Shortest Path | 7 | `Spring2020-hw3` | [:link:](./calculation_io/shortest-path/p1.md)
+| Shortest Sum Of Distances Between Friends | 4 | `Spring2020-hw3` | [:link:](./calculation_io/shortest-sum-of-distances-between-freinds/p3.md)
+| Third Side Length Of Triangle | 5 | `Fall2020-hw3` | [:link:](./calculation_io/third-side-length-of-triangle/p3.md)
+| Calculate Salary | 3 | `Fall2020-hw3` | [:link:](./calculation_io/calculate-salary/p4.md)
+| Minimum Squares Number | 3 | `Fall2020-hw3` | [:link:](./calculation_io/minimum-squares-number/p7.md)
+| Calculation Output | 4 | `Fall2016-hw2` | [:link:](./calculation_io/calculate-output/p1.md)
+| Calculation Output 2 | 4 | `Fall2017-hw2` | [:link:](./calculation_io/calculate-output-2/P1.md)
+| Calculation Output 3 | 4 | `Fall2018-hw2` , `Fall2019-hw2` | [:link:](./calculation_io/calculate-output-3/p1.md)
+| Calculation Output 4 | 4 | `Fall2018-hw3` | [:link:](./calculation_io/calculate-output-4/p1.md)
+| Calculation Output 5 | 4 | `Spring2019-hw2` | [:link:](./calculation_io/calculate-output-5/p1.md)
+| Calculation Output And Cast Question | 4 | `Fall2020-hw3` | [:link:](./calculation_io/calculate-output-and-cast-question/p1.md)
+| Cast Question | 4 | `Fall2016-hw2` | [:link:](./calculation_io/cast-question/p2.md)
+| Cast Question 2 | 4 | `Fall2018-hw2` | [:link:](./calculation_io/cast-question-2/p2.md)
+| Cast Question 3 | 4 | `Spring2019-hw2` | [:link:](./calculation_io/cast-question-3/p2.md)
+| Cast Question 4 | 4 | `Fall2019-hw2` | [:link:](./calculation_io/cast-question-4/p2.md)
+| Find Compiling Errors | 4 | `Spring2020-hw2` | [:link:](./calculation_io/find-compiling-errors/p8.md)
+| Find Compiling Errors 2 | 4 | `Fall2020-hw2` | [:link:](./calculation_io/find-compiling-errors-2/p2.md)
 ## Decision making
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
-| Sort 6 numbers in descending order | 5 | `Fall2015-hw3` | [:link:](./decison_making/sort_6_numbers_in_descending_order/p5.md) |
-| Number of runs in serries | 7 | `Fall2015-hw4` | [:link:](./decison_making/number_of_runs_in_serries/p5.md) |
-| Shape recognition | 5 | `Fall2017-hw3`, `Fall2016-hw3`, `Fall2015-hw3` |  [:link:](./decison_making/shape_recognition/P3.md) |
-| rewrite the code with switch case | 3 | `Fall2015-hw3` | [:link:](.decison_making/rewrite_with_switch_cases/HW-3.pdf) |
-| sort the input numbers in descending order with minimum comparisons | 7 | `Fall2018-hw3`, `ُSpring2019-hw3`, `Fall2016-hw5`, `Fall2015-hw3` | [:link:](./bank/decison_making/sort_in_descending_order_least_comparisons/p3.md) |
-| Min and Max of the king's age | 4 | `Fall2016-hw3` | [:link:](./decison_making/max_and_min_of_kings_age/p2.md) |
-| Pallindrome number | 3 | `Fall2017-hw3`, `Fall2016-hw3` | [:link:](./decison_making/palindrome_number_detection/P4.md)
-| Guessing the number game - part1 | 6 | `Fall2017-hw5` | [:link:](./decison_making/guessing_the_numbers_game_part1/) |
-| Guessing the number game - part2 | 6 | `Fall2017-hw5` | [:link:](./decison_making/guessing_the_numbers_game_part1/) |
-| Generate all the numbers congruence modulo given n | 5 | `Fall2017-hw4` | [:link:](./decison_making/generate_all_numbers_Congruence_modulo_to_given_n/P1.md) |
-| Common area of 2 rectangles | 7 | `Fall2019-hw3`, `Fall2017-hw3`, `Fall2020-hw3`| [:link:](./decison_making/common_area_of_two_rectangles/P5.md) |
-| Use the minimum amount of switch cases | 4 | `Fall2019-hw3`, `Spring2019-hw3`, `Fall2018-hw3` | [:link:](.//decison_making/using_minimum_switch_cases/p1.md) |
-| Use the least number of if-else | 4 | `Fall2017-hw3` | [:link:](./decison_making/minimum_number_of_if_else/P2.md) |
-| Intersection of 3 intervals | 6 | `Spring2019-hw3`, `Fall2018-hw3` | [:link:](./decison_making/intersection_of_three_intervals/p5.md) |
-| Check the triangle type | 5 | `Fall2018-hw3` | [:link:](./decison_making/triangle_detection/p4.md) |
-| Calculate the least number of bills | 5 | `Fall2018-hw5` | [:link:](./decison_making/minimum_number_of_bills/p6.md) |
-| Check if input is in the given interval | 7 | `Fall2018-hw4` | [:link:](.//decison_making/check_if_input_is_in_given_set/p1.md) |
-| 3 or 4 points on a line and check if they form a rhombus | 5 | `Spring2019-hw3` | [:link:](./decison_making/check_if_four_inputs_create_rhombus/p4.md) |
-| Check if inputs form a square | 6 | `Fall2019-hw3` | [:link:](./decison_making/check_if_inputs_create_sqaure/p4.md) |
-| Intersection on n intervals | 6 | `Fall2019-hw5` | [:link:](./decison_making/intersection_of_n_intervals/p8.md) |
-| Put same amount of waters in jars | 5 | `Spring2020-hw3` | [:link:](./decison_making/intersection_of_n_intervals/p8.md) |
-| Check if input is a leap year | 4 | `Spring2020-hw3` | [:link:](./decison_making/check_if_input_is_leapyear/p5.md) |
-| Find the value of Z | 5 | `Spring2019-hw3` | [:link:](./decison_making/find_the_value_of_Z/p1.md) |
+| Sort 6 numbers in descending order | 5 | `Fall2015-hw3` | [:link:](./decision/sort_6_numbers_in_descending_order/p5.md) |
+| Number of runs in serries | 7 | `Fall2015-hw4` | [:link:](./decision/number_of_runs_in_serries/p5.md) |
+| Shape recognition | 5 | `Fall2017-hw3`, `Fall2016-hw3`, `Fall2015-hw3` |  [:link:](./decision/shape_recognition/P3.md) |
+| rewrite the code with switch case | 3 | `Fall2015-hw3` | [:link:](.decision/rewrite_with_switch_cases/HW-3.pdf) |
+| sort the input numbers in descending order with minimum comparisons | 7 | `Fall2018-hw3`, `ُSpring2019-hw3`, `Fall2016-hw5`, `Fall2015-hw3` | [:link:](./bank/decision/sort_in_descending_order_least_comparisons/p3.md) |
+| Min and Max of the king's age | 4 | `Fall2016-hw3` | [:link:](./decision/max_and_min_of_kings_age/p2.md) |
+| Pallindrome number | 3 | `Fall2017-hw3`, `Fall2016-hw3` | [:link:](./decision/palindrome_number_detection/P4.md)
+| Guessing the number game - part1 | 6 | `Fall2017-hw5` | [:link:](./decision/guessing_the_numbers_game_part1/) |
+| Guessing the number game - part2 | 6 | `Fall2017-hw5` | [:link:](./decision/guessing_the_numbers_game_part1/) |
+| Generate all the numbers congruence modulo given n | 5 | `Fall2017-hw4` | [:link:](./decision/generate_all_numbers_Congruence_modulo_to_given_n/P1.md) |
+| Common area of 2 rectangles | 7 | `Fall2019-hw3`, `Fall2017-hw3`, `Fall2020-hw3`| [:link:](./decision/common_area_of_two_rectangles/P5.md) |
+| Use the minimum amount of switch cases | 4 | `Fall2019-hw3`, `Spring2019-hw3`, `Fall2018-hw3` | [:link:](.//decision/using_minimum_switch_cases/p1.md) |
+| Use the least number of if-else | 4 | `Fall2017-hw3` | [:link:](./decision/minimum_number_of_if_else/P2.md) |
+| Intersection of 3 intervals | 6 | `Spring2019-hw3`, `Fall2018-hw3` | [:link:](./decision/intersection_of_three_intervals/p5.md) |
+| Check the triangle type | 5 | `Fall2018-hw3` | [:link:](./decision/triangle_detection/p4.md) |
+| Calculate the least number of bills | 5 | `Fall2018-hw5` | [:link:](./decision/minimum_number_of_bills/p6.md) |
+| Check if input is in the given interval | 7 | `Fall2018-hw4` | [:link:](.//decision/check_if_input_is_in_given_set/p1.md) |
+| 3 or 4 points on a line and check if they form a rhombus | 5 | `Spring2019-hw3` | [:link:](./decision/check_if_four_inputs_create_rhombus/p4.md) |
+| Check if inputs form a square | 6 | `Fall2019-hw3` | [:link:](./decision/check_if_inputs_create_sqaure/p4.md) |
+| Intersection on n intervals | 6 | `Fall2019-hw5` | [:link:](./decision/intersection_of_n_intervals/p8.md) |
+| Put same amount of waters in jars | 5 | `Spring2020-hw3` | [:link:](./decision/intersection_of_n_intervals/p8.md) |
+| Check if input is a leap year | 4 | `Spring2020-hw3` | [:link:](./decision/check_if_input_is_leapyear/p5.md) |
+| Find the value of Z | 5 | `Spring2019-hw3` | [:link:](./decision/find_the_value_of_Z/p1.md) |
 
 
 
@@ -145,27 +145,27 @@ Contents:
 ## Function
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
-| Binary code furthest ones | 4 | `Fall2019-hw5` | [:link:](./Functions/furthest-space-between-ones-in-a-number's-binary-code/p5.md) |
-| Smallest primary and symmetrical number |4| `Fall2019-hw5` | [:link:](./Functions/smallest-primary-and-symmetrical-number-bigger-than-N/p6.md) |
-| Calculating a given sequence | 4 | `Fall2019-hw5` | [:link:](./Functions/calculating-a-sequence/p7.md) |
-| Intersection of multiple tuples | 6 | `Fall2019-hw5` | [:link:](./Functions/intersection-of-multiple-tuples/p8.md) |
-| Partially remove a string | 5 | `Fall2019-hw7` | [:link:](./Functions/removing-part-of-a-string-identical-to-another/p7.md) |
-| Capitalize a messy string | 4 | `Fall2020-hw4` | [:link:](./Functions/capitallize-strings/p3.md) |
-| Busiest time | 6 | `Fall2020-hw5` | [:link:](./Functions/busiest-time-of-university/p1.md)|
-| Matrix determinant | 6 | `Fall2020-hw5` | [:link:](./Functions/determinant-of-a-matrix/p2.md) |
-| String containing test | 3 | `Fall2020-hw5` | [:link:](./Functions/string-containing-test/p3.md)|
-| Decode string with shifted letters | 4 | `Fall2020-hw5` | [:link:](./Functions/decode-sentance-when-letter-are-shifted/p4.md)|
-| Recursive function | 6 | `Fall2020-hw5` | [:link:](./Functions/fancy-recursive-function-example/p5.md) |
-| Right and left digit check | 2 | `Fall2020-Midterm` | [:link:](./Functions/number-right-left-check/p3.md) |
-| Number in a series check | 4 | `Spring2019-hw4` | [:link:](./Functions/generate-number-from-series-test/p3.md)|
-| Game of calculations | 5 | `Spring2019-hw4` | [:link:](./Functions/math-test/p5.md) |
-| Mth digit of number N | 2 | `Spring2019-hw5` | [:link:](./Functions/m_th-digit-of-number-N/p1.md) |
-| Fibonacci seriese | 5 | `Spring2019-hw5` | [:link:](./Functions/fibonacci-series/p4.md) |
-| Simple calculator | 5 | `Spring2019-hw5` | [:link:](./Functions/calculator/p5.md) |
-| Progress stairs | 3 | `Spring2020-hw4` | [:link:](./Functions/progress-stairs/p2.md) |
-| Matrix Determinant 2 | 6 | `Spring2020-hw4` | [:link:](./Functions/determinant-matrix-2/p3.md) |
-| Number base changer | 7 | `Spring2020-hw4` | [:link:](./Functions/number-base-changer/p4.md) |
-| Digit exchanger | 6 | `Spring2020-hw4` | [:link:](./Functions/digit-exchanger/p5.md)|
+| Binary code furthest ones | 4 | `Fall2019-hw5` | [:link:](./functions/furthest-space-between-ones-in-a-number's-binary-code/p5.md) |
+| Smallest primary and symmetrical number |4| `Fall2019-hw5` | [:link:](./functions/smallest-primary-and-symmetrical-number-bigger-than-N/p6.md) |
+| Calculating a given sequence | 4 | `Fall2019-hw5` | [:link:](./functions/calculating-a-sequence/p7.md) |
+| Intersection of multiple tuples | 6 | `Fall2019-hw5` | [:link:](./functions/intersection-of-multiple-tuples/p8.md) |
+| Partially remove a string | 5 | `Fall2019-hw7` | [:link:](./functions/removing-part-of-a-string-identical-to-another/p7.md) |
+| Capitalize a messy string | 4 | `Fall2020-hw4` | [:link:](./functions/capitallize-strings/p3.md) |
+| Busiest time | 6 | `Fall2020-hw5` | [:link:](./functions/busiest-time-of-university/p1.md)|
+| Matrix determinant | 6 | `Fall2020-hw5` | [:link:](./functions/determinant-of-a-matrix/p2.md) |
+| String containing test | 3 | `Fall2020-hw5` | [:link:](./functions/string-containing-test/p3.md)|
+| Decode string with shifted letters | 4 | `Fall2020-hw5` | [:link:](./functions/decode-sentance-when-letter-are-shifted/p4.md)|
+| Recursive function | 6 | `Fall2020-hw5` | [:link:](./functions/fancy-recursive-function-example/p5.md) |
+| Right and left digit check | 2 | `Fall2020-Midterm` | [:link:](./functions/number-right-left-check/p3.md) |
+| Number in a series check | 4 | `Spring2019-hw4` | [:link:](./functions/generate-number-from-series-test/p3.md)|
+| Game of calculations | 5 | `Spring2019-hw4` | [:link:](./functions/math-test/p5.md) |
+| Mth digit of number N | 2 | `Spring2019-hw5` | [:link:](./functions/m_th-digit-of-number-N/p1.md) |
+| Fibonacci seriese | 5 | `Spring2019-hw5` | [:link:](./functions/fibonacci-series/p4.md) |
+| Simple calculator | 5 | `Spring2019-hw5` | [:link:](./functions/calculator/p5.md) |
+| Progress stairs | 3 | `Spring2020-hw4` | [:link:](./functions/progress-stairs/p2.md) |
+| Matrix Determinant 2 | 6 | `Spring2020-hw4` | [:link:](./functions/determinant-matrix-2/p3.md) |
+| Number base changer | 7 | `Spring2020-hw4` | [:link:](./functions/number-base-changer/p4.md) |
+| Digit exchanger | 6 | `Spring2020-hw4` | [:link:](./functions/digit-exchanger/p5.md)|
 
 ## Pointer
 | Description | Difficulty | Occurrences | Link |
