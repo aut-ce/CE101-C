@@ -28,7 +28,11 @@ func main() {
 		}
 		subsets = append(subsets, subset)
 	}
-
+	
+	for i := range subsets{
+		sort.Ints(subsets[i])
+	} 
+	
 	sort.Slice(subsets, func(i, j int) bool {
 		if len(subsets[i]) != len(subsets[j]) {
 			return len(subsets[i]) < len(subsets[j])
@@ -42,7 +46,7 @@ func main() {
 	})
 
 	for _, s := range subsets {
-		sort.Ints(s)
+		//sort.Ints(s)
 		fmt.Printf("{ ")
 		for _, e := range s {
 			fmt.Printf("%d ", e)
