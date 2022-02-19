@@ -176,7 +176,7 @@ Contents:
 | Matrix Determinant 2 | 6 | `Spring2020-hw4` | [:link:](./function/determinant-matrix-2/p3.md) |
 | Number base changer | 7 | `Spring2020-hw4` | [:link:](./function/number-base-changer/p4.md) |
 | Digit exchanger | 6 | `Spring2020-hw4` | [:link:](./function/digit-exchanger/p5.md)|
-| Vertices coloring | 7 | `Fall2021-hw4` | [:link:](./function/vertices_coloring/p.md)|
+| Cover with tiles | 7 | `Fall2021-hw4` | [:link:](./function/cover_with_tiles/p.md)|
 
 ## Pointer
 | Description | Difficulty | Occurrences | Link |
