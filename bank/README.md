@@ -105,6 +105,9 @@ Contents:
 | Cast Question 4 | 4 | `Fall2019-hw2` | [:link:](./calculation_io/cast-question-4/p2.md)
 | Find Compiling Errors | 4 | `Spring2020-hw2` | [:link:](./calculation_io/find-compiling-errors/p8.md)
 | Find Compiling Errors 2 | 4 | `Fall2020-hw2` | [:link:](./calculation_io/find-compiling-errors-2/p2.md)
+| The lost robot | 7 | `Fall2021-hw3` | [:link:](./calculation_io/lost_robot/p.md) |
+| Ascending Digits | 7 | `Fall2021-hw3` | [:link:](./calculation_io/ascending_digits/p.md) |
+
 ## Decision making
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
@@ -128,18 +131,25 @@ Contents:
 | 3 or 4 points on a line and check if they form a rhombus | 5 | `Spring2019-hw3` | [:link:](./decision/check_if_four_inputs_create_rhombus/p4.md) |
 | Check if inputs form a square | 6 | `Fall2019-hw3` | [:link:](./decision/check_if_inputs_create_sqaure/p4.md) |
 | Intersection on n intervals | 6 | `Fall2019-hw5` | [:link:](./decision/intersection_of_n_intervals/p8.md) |
-| Put same amount of waters in jars | 5 | `Spring2020-hw3` | [:link:](./decision/intersection_of_n_intervals/p8.md) |
+| Put same amount of waters in jars | 5 | `Fall2021-hw3`, `Spring2020-hw3` | [:link:](./decision/intersection_of_n_intervals/p8.md) |
 | Check if input is a leap year | 4 | `Spring2020-hw3` | [:link:](./decision/check_if_input_is_leapyear/p5.md) |
 | Find the value of Z | 5 | `Spring2019-hw3` | [:link:](./decision/find_the_value_of_Z/p1.md) |
+| Find maximum subtraction | 4 | `Fall2021-hw3` | [:link:](./decision/maximum_subtraction/p.md) |
+| Check equality of reminders | 3 | `Fall2021-hw3` | [:link:](./decision/check_equality_of_reminders/p.md) |
+| Isosceles triangle detection | 5 | `Fall2021-hw3` | [:link:](./decision/isosceles_triangle_detection/p.md) |
 
 
 
 ## Loop and Array
 | Description | Difficulty | Occurrences | Link |
 |-------------|------------|-------------|------|
-|             |            |             |      |
-|             |            |             |      |
-|             |            |             |      |
+| The Armstrong number | 5 | `Fall2021-hw4` | [:link:](./loops/armstrong_number/p.md) |
+| Coordinate snail | 6 | `Fall2021-hw4` | [:link:](./loops/coordinate_snail/p.md) |
+| Empty library cells | 6 | `Fall2021-hw4` | [:link:](./loops/empty_library_cells/p.md) |
+| Divisor Printer | 6 | `Fall2021-hw4` | [:link:](./loops/divisor_printer/p.md) |
+| Sum of prime divisors | 4 | `Fall2021-hw4` | [:link:](./loops/sum_of_prime_divisors/p.md) |
+| Seating in a row arrangement | 7 | `Fall2021-hw4` | [:link:](./loops/seating_in_a_row_arrangement/p.md) |
+| Vertices coloring | 6 | `Fall2021-hw4` | [:link:](./loops/vertices_coloring/p.md) |
 
 
 ## Function
@@ -166,6 +176,7 @@ Contents:
 | Matrix Determinant 2 | 6 | `Spring2020-hw4` | [:link:](./function/determinant-matrix-2/p3.md) |
 | Number base changer | 7 | `Spring2020-hw4` | [:link:](./function/number-base-changer/p4.md) |
 | Digit exchanger | 6 | `Spring2020-hw4` | [:link:](./function/digit-exchanger/p5.md)|
+| Vertices coloring | 7 | `Fall2021-hw4` | [:link:](./function/vertices_coloring/p.md)|
 
 ## Pointer
 | Description | Difficulty | Occurrences | Link |
